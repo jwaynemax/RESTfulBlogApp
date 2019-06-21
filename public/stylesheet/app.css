@@ -1,0 +1,27 @@
+body {
+    background-color: lightgrey;
+}
+
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7em;    
+}
+
+#delete {
+    display: inline;
+}
+
+#editBtn, #indexBtn, #deleteBtn {
+    margin-top: 1em;
+}
+
+#indexBtn {
+    margin-bottom: .5em;
+}
+
+#leaf {
+    color: darkgreen;
+}
